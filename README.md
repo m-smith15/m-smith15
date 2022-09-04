@@ -7,7 +7,7 @@
    - My personal projects are in the "Projects" repo though!
  
 ### A little about me...
- - Personality Type: INTJ
+ - My personality type is INTJ
  - I'm goal oriented, and driven by understanding the why behind anything
  - I enjoy challenges, and the struggle they provide
  - I constantly strive to always be learning
