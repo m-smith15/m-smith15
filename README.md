@@ -9,7 +9,7 @@
 ### A little about me...
  - Personality Type: INTJ
  - I'm goal oriented, and driven by understanding the why behind anything
- - I enjoy challenges, and the struggle they provide.
+ - I enjoy challenges, and the struggle they provide
  - I constantly strive to always be learning
  
  ### What have I been listening to...
@@ -24,11 +24,11 @@
  
 #### I wish...
  - I would look back and appreciate the obstacles I've overcome more
- - Someone would have told me how much fun coding is sooner!
- - I could remember what 42 was the answer to...
+ - Someone would have told me how much fun coding is sooner
+ - What 42 was the answer to...
 
 ### Before you go...
  * Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/macksmithlambeau/)
- * You'll never guess what I tweeted about - [![Twitter Badge](https://img.shields.io/badge/top%20tweet-I'll%20never..-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1)
+ * You'll never guess what I tweeted about - [![Twitter Badge](https://img.shields.io/badge/top%20tweet-I'll%20never..-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  * Your presence has been acknowledged ![Profile View Count](https://komarev.com/ghpvc/?username=m-smith15)
 
