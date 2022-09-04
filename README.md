@@ -10,8 +10,10 @@
  - My personality type is [INTJ](https://www.16personalities.com/intj-personality)
  - I'm goal oriented, and driven by understanding the why behind anything
  - As someone who is competitive, I enjoy challenges and the struggle they provide
- - I constantly strive to always be learning
  - I am a huge fantasy nerd, and a self-proclaimed history buff
+ 
+<!-- ### Currently, I'm learning about...  TODO -->
+
  
  ### What have I been listening to...
   - [The Dunwich Horror](https://www.audible.com/pd/The-Dunwich-Horror-Audiobook/B07BZ5JF2W?ref=web_search_eac_asin_1&qid=zjEhnE67Jv&sr=1-1) by H.P. Lovecraft
