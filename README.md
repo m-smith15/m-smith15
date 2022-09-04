@@ -31,8 +31,10 @@
  - What 42 was the answer to...
 
 ### Before you go...
-
-
+<!-- Guestbook -->
+| Name | Date | Message |
+|---|---|---|
+<!-- /Guestbook -->
 
  * Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/macksmithlambeau/)
  * You'll never guess what I tweeted about - [![Twitter Badge](https://img.shields.io/badge/top%20tweet-I'll%20never..-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
