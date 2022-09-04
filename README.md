@@ -1,4 +1,7 @@
 ### :tada: Good news everyone!
+
+<img alt="GIF" height="300px" width="300px" src="./assets/futurama-professor.gif" />
+
 #### The new test subjects have arrived! 
 
 ### But seriously...
