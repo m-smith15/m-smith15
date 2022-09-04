@@ -30,12 +30,22 @@
  - Someone would have told me how much fun coding is sooner
  - What 42 was the answer to...
 
-### Before you go...
+### Tell me what you think!
+Let me know your:
+ * Favorite histoical event
+ * Horde or Alliance | Classic or Retail (or both!)
+ * Light or Dark side of the Force
+ * Imperium, Chaos, or do you enjoy screaming "WAAAGH"
+ * What do you think everyone should read at least once
+ 
+ ([:page_with_curl::pencil2: add a comment](https://github.com/m-smith15/m-smith15/issues/1#issuecomment-new))
+
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
 <!-- /Guestbook -->
 
+### Before you go...
  * Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/macksmithlambeau/)
  * You'll never guess what I tweeted about - [![Twitter Badge](https://img.shields.io/badge/top%20tweet-I'll%20never..-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  * Your presence has been acknowledged ![Profile View Count](https://komarev.com/ghpvc/?username=m-smith15)
