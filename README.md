@@ -8,6 +8,7 @@
  
 ### A little about me...
  - My personality type is [INTJ](https://www.16personalities.com/intj-personality)
+   * [What's yours?](https://www.16personalities.com/free-personality-test)
  - I'm goal oriented, and driven by understanding the why behind anything
  - As someone who is competitive, I enjoy challenges and the struggle they provide
  - I am a huge fantasy nerd, and a self-proclaimed history buff
