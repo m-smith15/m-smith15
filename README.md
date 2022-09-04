@@ -3,31 +3,35 @@
 
 ### But seriously...
  - Hello and welcome! My name is Mack. I'm fresh to the coding world, and boy howdy am I excited to be here now.
- - I've enrolled in a coding bootcamp through Coding Dojo. You'll find all my work done a litle further in.
+ - I've enrolled in a coding bootcamp through Coding Dojo. You'll find all my work done a little further in.
    - My personal projects are in the "Projects" repo though!
  
 ### A little about me...
- - My personality type is INTJ
+ - My personality type is [INTJ](https://www.16personalities.com/intj-personality)
  - I'm goal oriented, and driven by understanding the why behind anything
- - I enjoy challenges, and the struggle they provide
+ - As someone who is competitive, I enjoy challenges and the struggle they provide
  - I constantly strive to always be learning
+ - I am a huge fantasy nerd, and a self-proclaimed history buff!
  
  ### What have I been listening to...
-  - The Dunwich Horror by H.P. Lovecraft
-  - The Call of Cthulu by H.P. Lovecraft
-  - Can't Hurt Me by David Goggins
-  - Start with Why by Simon Sinek
-  - At Your Best by Carey Nieuwhof
-  - The Joyful Wisdom by Friedrich Nietzsche
-  - Horus Rising by Dan Abnett
-  - Grey Knights: Blade of Purity by David Annandale
+  - [The Dunwich Horror](https://www.audible.com/pd/The-Dunwich-Horror-Audiobook/B07BZ5JF2W?ref=web_search_eac_asin_1&qid=zjEhnE67Jv&sr=1-1) by H.P. Lovecraft
+  - [The Call of Cthulu](https://www.audible.com/pd/The-Call-of-Cthulhu-Audiobook/B07BZ1CMSW?ref=web_search_eac_asin_1&qid=mJJOOxU5bF&sr=1-1) by H.P. Lovecraft
+  - [Can't Hurt Me](https://www.audible.com/pd/Cant-Hurt-Me-Audiobook/B07KKMNZCH?qid=1662322177&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=97F41RG6CDKBRD0CSHXS) by David Goggins
+  - [Start with Why](https://www.audible.com/pd/Start-with-Why-Audiobook/B074VDVHZ5?qid=1662322203&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=Z9R1RMYFQH3TQFMQJ2BC) by Simon Sinek
+  - [At Your Best](https://www.audible.com/pd/At-Your-Best-Audiobook/0593287495?ref=web_search_eac_asin_1&qid=iwqAJlfWvw&sr=1-1) by Carey Nieuwhof
+  - [The Joyful Wisdom](https://www.audible.com/pd/The-Gay-Science-The-Joyful-Wisdom-Audiobook/B01EWAYY9Q?qid=1662322248&sr=1-2&ref=a_search_c3_lProduct_1_2&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=F3DZ588V1WXVGA5YRDA7) by Friedrich Nietzsche
+  - [Horus Rising](https://www.audible.com/pd/Horus-Rising-Audiobook/B0764LBS4B?qid=1662322070&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=1WZXNT81Z0GY13QN8WH6) by Dan Abnett
+  - [Grey Knights: Blade of Purity](https://www.audible.com/pd/Grey-Knights-Blade-of-Purity-Audiobook/B077G3Y717?ref=web_search_eac_asin_1&qid=gy1LCDtlB1&sr=1-1) by David Annandale
  
 ### I wish...
- - I would look back and appreciate the obstacles I've overcome more
+ - I would look back and appreciate the obstacles I've overcome more often
  - Someone would have told me how much fun coding is sooner
  - What 42 was the answer to...
 
 ### Before you go...
+
+
+
  * Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/macksmithlambeau/)
  * You'll never guess what I tweeted about - [![Twitter Badge](https://img.shields.io/badge/top%20tweet-I'll%20never..-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  * Your presence has been acknowledged ![Profile View Count](https://komarev.com/ghpvc/?username=m-smith15)
