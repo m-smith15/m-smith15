@@ -2,8 +2,9 @@
 #### The new test subjects have arrived! 
 
 ### But seriously...
- - Hello and welcome! My name is Mack. I'm new to the coding world, but boy howdy am I excited to be here now.
- - I've recently enrolled in a coding bootcamp through Coding Dojo. You'll find all my work done a litle further in.
+ - Hello and welcome! My name is Mack. I'm fresh to the coding world, and boy howdy am I excited to be here now.
+ - I've enrolled in a coding bootcamp through Coding Dojo. You'll find all my work done a litle further in.
+   - My personal projects are in the "Projects" repo though!
  
 ### A little about me...
  - Personality Type: INTJ
@@ -11,7 +12,7 @@
  - I enjoy challenges, and the struggle they provide.
  
 #### I wish...
- - I would look back and appreciate the obstacles overcome more
+ - I would look back and appreciate the obstacles I've overcome more
  - Someone would have told me how much fun coding is sooner!
  - I could remember what 42 was the answer to...
 
