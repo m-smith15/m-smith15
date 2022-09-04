@@ -10,6 +10,17 @@
  - Personality Type: INTJ
  - I'm goal oriented, and driven by understanding the why behind anything
  - I enjoy challenges, and the struggle they provide.
+ - I constantly strive to always be learning
+ 
+ ### What have I been listening to...
+  - The Dunwich Horror by H.P. Lovecraft
+  - The Call of Cthulu by H.P. Lovecraft
+  - Can't Hurt Me by David Goggins
+  - Start with Why by Simon Sinek
+  - At Your Best by Carey Nieuwhof
+  - The Joyful Wisdom by Friedrich Nietzsche
+  - Horus Rising by Dan Abnett
+  - Grey Knights: Blade of Purity by David Annandale
  
 #### I wish...
  - I would look back and appreciate the obstacles I've overcome more
