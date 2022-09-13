@@ -2,7 +2,7 @@
 
 <img alt="GIF" height="300px" width="300px" src="./assets/futurama-professor.gif" />
 
-#### The new test subjects have arrived! 
+The new users have arrived! 
 
 ### But seriously...
  - Hello and welcome! My name is Mack. I'm fresh to the coding world, and boy howdy am I excited to be here now.
