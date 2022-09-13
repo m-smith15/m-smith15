@@ -23,9 +23,11 @@ The new users have arrived!
   - [The Dunwich Horror](https://www.audible.com/pd/The-Dunwich-Horror-Audiobook/B07BZ5JF2W?ref=web_search_eac_asin_1&qid=zjEhnE67Jv&sr=1-1) by H.P. Lovecraft
   - [The Call of Cthulu](https://www.audible.com/pd/The-Call-of-Cthulhu-Audiobook/B07BZ1CMSW?ref=web_search_eac_asin_1&qid=mJJOOxU5bF&sr=1-1) by H.P. Lovecraft
   - [Can't Hurt Me](https://www.audible.com/pd/Cant-Hurt-Me-Audiobook/B07KKMNZCH?qid=1662322177&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=97F41RG6CDKBRD0CSHXS) by David Goggins
+  - [With the Old Breed](https://www.audible.com/pd/With-the-Old-Breed-Audiobook/B00FOX9E2S?ref=a_library_t_c5_libItem_&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=RA7F5FE18NSCQTFMR9QR) by E. B. Sledge
   - [Start with Why](https://www.audible.com/pd/Start-with-Why-Audiobook/B074VDVHZ5?qid=1662322203&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=Z9R1RMYFQH3TQFMQJ2BC) by Simon Sinek
   - [At Your Best](https://www.audible.com/pd/At-Your-Best-Audiobook/0593287495?ref=web_search_eac_asin_1&qid=iwqAJlfWvw&sr=1-1) by Carey Nieuwhof
   - [The Joyful Wisdom](https://www.audible.com/pd/The-Gay-Science-The-Joyful-Wisdom-Audiobook/B01EWAYY9Q?qid=1662322248&sr=1-2&ref=a_search_c3_lProduct_1_2&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=F3DZ588V1WXVGA5YRDA7) by Friedrich Nietzsche
+  - [Clean Code](https://www.audible.com/pd/Clean-Code-Audiobook/B08X7KL3TF?ref=a_library_t_c5_libItem_&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=RA7F5FE18NSCQTFMR9QR) by Robert C. Martin
   - [Horus Rising](https://www.audible.com/pd/Horus-Rising-Audiobook/B0764LBS4B?qid=1662322070&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=1WZXNT81Z0GY13QN8WH6) by Dan Abnett
   - [Grey Knights: Blade of Purity](https://www.audible.com/pd/Grey-Knights-Blade-of-Purity-Audiobook/B077G3Y717?ref=web_search_eac_asin_1&qid=gy1LCDtlB1&sr=1-1) by David Annandale
  
