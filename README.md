@@ -7,7 +7,7 @@ The new users have arrived!
 ### But seriously...
  - Hello and welcome! My name is Mack. I'm fresh to the coding world, and boy howdy am I excited to be here now.
  - I've enrolled in a coding bootcamp through Coding Dojo. You'll find all my work done a little further in.
-   - My personal projects are in the "Projects" repo though!
+   - Personally, I reccomend checking out the [Offline Auction House](https://github.com/m-smith15/Projects/tree/master/Python/wow_ah_project) or my Web scraping Java project [Character Template](https://github.com/m-smith15/Projects/tree/master/Java)
  
 ### A little about me...
  - My personality type is [INTJ](https://www.16personalities.com/intj-personality)
