@@ -1,12 +1,12 @@
-### :tada: Good news everyone!
+### :tada:
 
 <img alt="GIF" height="300px" width="300px" src="./assets/futurama-professor.gif" />
 
 The new users have arrived! 
 
 ### But seriously...
- - Hello and welcome! My name is Mack. I'm fresh to the coding world, and boy howdy am I excited to be here now.
- - I've enrolled in a coding bootcamp through Coding Dojo. You'll find all my work done a little further in.
+ - Hello and welcome! My name is Mack. This profile will serve as a diary of my journey into the coding world.
+ - I've enrolled in a coding bootcamp through Coding Dojo. You're welcome to check out the assignments I completed further in.
    - Personally, I reccomend checking out the [Offline Auction House](https://github.com/m-smith15/Projects/tree/master/Python/wow_ah_project) or my Web scraping Java project [Character Template](https://github.com/m-smith15/Projects/tree/master/Java)
  
 ### A little about me...
@@ -54,6 +54,6 @@ Let me know your:
 
 ### Before you go...
  * Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/macksmithlambeau/)
- * You'll never guess what I tweeted about - [![Twitter Badge](https://img.shields.io/badge/top%20tweet-I'll%20never..-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ * You'll never guess what I tweeted about - [![Twitter Badge](https://img.shields.io/badge/viral%20tweet-I'll%20never..-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  * Your presence has been acknowledged ![Profile View Count](https://komarev.com/ghpvc/?username=m-smith15)
 
