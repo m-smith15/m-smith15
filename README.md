@@ -1,4 +1,4 @@
-### :tada:
+### :tada: Welcome! :tada:
 
 <img alt="GIF" height="300px" width="300px" src="./assets/futurama-professor.gif" />
 
@@ -6,8 +6,7 @@ The new users have arrived!
 
 ### But seriously...
  - Hello and welcome! My name is Mack. This profile will serve as a diary of my journey into the coding world.
- - I've enrolled in a coding bootcamp through Coding Dojo. You're welcome to check out the assignments I completed further in.
-   - Personally, I reccomend checking out the [Offline Auction House](https://github.com/m-smith15/Projects/tree/master/Python/wow_ah_project) or my Web scraping Java project [Character Template](https://github.com/m-smith15/Projects/tree/master/Java)
+ - I've enrolled in a coding bootcamp through Coding Dojo. The assignments I've completed in regards to the bootcamp are a little further in, but my personal projects are pinned below!
  
 ### A little about me...
  - My personality type is [INTJ](https://www.16personalities.com/intj-personality)
@@ -31,6 +30,8 @@ The new users have arrived!
   - [Horus Rising](https://www.audible.com/pd/Horus-Rising-Audiobook/B0764LBS4B?qid=1662322070&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=1WZXNT81Z0GY13QN8WH6) by Dan Abnett
   - [Grey Knights: Blade of Purity](https://www.audible.com/pd/Grey-Knights-Blade-of-Purity-Audiobook/B077G3Y717?ref=web_search_eac_asin_1&qid=gy1LCDtlB1&sr=1-1) by David Annandale
  
+ <img alt="GIF" height="300px" width="300px" src="./assets/pixel-city.gif" />
+ 
 ### I wish...
  - I would look back and appreciate the obstacles I've overcome more often
  - Someone would have told me how much fun coding is sooner
@@ -41,6 +42,7 @@ Let me know your:
  * Favorite histoical event
  * Horde or Alliance | Classic or Retail (or both!)
  * Light or Dark side of the Force
+ * Best Starter Pokémon
  * Imperium, Chaos, or do you enjoy screaming "WAAAGH"
  * What do you think everyone should read at least once
  
