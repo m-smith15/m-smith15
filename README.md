@@ -1,6 +1,5 @@
 ### :tada: Welcome! :tada:
-
-<img alt="GIF" height="300px" width="300px" src="./assets/futurama-professor.gif" />
+ <img alt="GIF" height="300px" width="300px" src="./assets/futurama-professor.gif" />
 
 The new users have arrived! 
 
@@ -29,8 +28,9 @@ The new users have arrived!
   - [Clean Code](https://www.audible.com/pd/Clean-Code-Audiobook/B08X7KL3TF?ref=a_library_t_c5_libItem_&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=RA7F5FE18NSCQTFMR9QR) by Robert C. Martin
   - [Horus Rising](https://www.audible.com/pd/Horus-Rising-Audiobook/B0764LBS4B?qid=1662322070&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=1WZXNT81Z0GY13QN8WH6) by Dan Abnett
   - [Grey Knights: Blade of Purity](https://www.audible.com/pd/Grey-Knights-Blade-of-Purity-Audiobook/B077G3Y717?ref=web_search_eac_asin_1&qid=gy1LCDtlB1&sr=1-1) by David Annandale
- 
- <img alt="GIF" height="300px" width="300px" src="./assets/pixel-city.gif" />
+ <p align="center">
+  <img alt="GIF" height="300px" width="600px" src="./assets/pixel-city.gif" />
+ </p>
  
 ### I wish...
  - I would look back and appreciate the obstacles I've overcome more often
