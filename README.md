@@ -40,6 +40,11 @@ The new users have arrived!
  - I would look back and appreciate the obstacles I've overcome more often
  - Someone would have told me how much fun coding is sooner
  - What 42 was the answer to...
+ 
+### For the number crunchers!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-smith15&show_icons=true&theme=merko)](https://github.com/m-smith15/github-readme-stats)
+
 
 ### Tell me what you think!
 Let me know your:
