@@ -18,6 +18,7 @@ The new users have arrived!
 
  
  ### What have I been listening to...
+ <div align="center">
  
  | Title | Author | Status |
 | ---: | :--- | :---: |
@@ -31,20 +32,23 @@ The new users have arrived!
 | [Clean Code](https://www.audible.com/pd/Clean-Code-Audiobook/B08X7KL3TF?ref=a_library_t_c5_libItem_&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=RA7F5FE18NSCQTFMR9QR) | Robert C. Martin | :white_small_square::white_small_square::white_small_square: |
 | [Horus Rising](https://www.audible.com/pd/Horus-Rising-Audiobook/B0764LBS4B?qid=1662322070&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=1WZXNT81Z0GY13QN8WH6) | Dan Abnett | :white_small_square::white_small_square::white_small_square: |
 | [Grey Knights: Blade of Purity](https://www.audible.com/pd/Grey-Knights-Blade-of-Purity-Audiobook/B077G3Y717?ref=web_search_eac_asin_1&qid=gy1LCDtlB1&sr=1-1) | David Annandale | :heavy_check_mark: | 
+</div>
 
  <p align="center">
   <img alt="GIF" height="300px" width="600px" src="./assets/pixel-city.gif" />
  </p>
- 
+
+### Super Secret Stats
+
+<details>
+<summary>Click to show/hide</summary>
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=m-smith15&show_icons=true&theme=merko" />
+</details>
+
 ### I wish...
  - I would look back and appreciate the obstacles I've overcome more often
  - Someone would have told me how much fun coding is sooner
  - What 42 was the answer to...
- 
-### For the number crunchers!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-smith15&show_icons=true&theme=merko)](https://github.com/m-smith15/github-readme-stats)
-
 
 ### Tell me what you think!
 Let me know your:
