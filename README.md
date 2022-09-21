@@ -1,23 +1,28 @@
-### :tada: Welcome! :tada:
- <img alt="GIF" height="300px" width="300px" src="./assets/futurama-professor.gif" />
+## <h1 align="center">:tada: Welcome! :tada: </h1>
 
-The new users have arrived! 
+<p align="center">
+<img alt="GIF" align="center" height="300px" width="300px" src="./assets/futurama-professor.gif" /><br /><br />
+The new users have arrived!
+</p>
 
-### But seriously...
- - Hello and welcome! My name is Mack. This profile will serve as a diary of my journey into the coding world.
- - I've enrolled in a coding bootcamp through Coding Dojo. The assignments I've completed in regards to the bootcamp are a little further in, but my personal projects are pinned below!
+### <div align="center">But seriously... </div>
+ <p align="center">Hello and welcome! My name is Mack. This profile will serve as a diary of my journey into the coding world. <br />
+ To start this journey, I've enrolled in a coding bootcamp through Coding Dojo. The assignments I've completed in regards to the bootcamp are a little further in, but my personal projects are pinned below! <p>
  
-### A little about me...
- - My personality type is [INTJ](https://www.16personalities.com/intj-personality)
-   * [What's yours?](https://www.16personalities.com/free-personality-test)
- - I'm goal oriented, and driven by understanding the why behind anything
- - As someone who is competitive, I enjoy challenges and the struggle they provide
- - I am a huge fantasy nerd, and a self-proclaimed history buff
+### <div align="center"> A little about me... </div>
+ <ul>
+ <li> My personality type is <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a> (Introverted, Intuitive, Thinking, Judging traits) </li>
+   <ul> <li> <a href="https://www.16personalities.com/free-personality-test target="_blank">What's yours? </a> </ul> </li>
+ <li> I'm goal oriented, and driven by understanding the why behind anything </li>
+ <li> As someone who is competitive, I enjoy challenges and the struggle they provide </li>
+ <li> I am a huge fantasy nerd, and a self-proclaimed history buff </li>
+ <ul>
+
  
 <!-- ### Currently, I'm learning about...  TODO -->
 
  
- ### What have I been listening to...
+ ### <div align="center"> What have I been listening to... </div>
  <div align="center">
  
  | Title | Author | Status |
@@ -38,27 +43,32 @@ The new users have arrived!
   <img alt="GIF" height="300px" width="600px" src="./assets/pixel-city.gif" />
  </p>
 
-### Super Secret Stats
-
+### <div align="center"> Super Secret Stats </div>
+<div align="center">
 <details>
 <summary>Click to show/hide</summary>
 <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=m-smith15&show_icons=true&theme=merko" />
 </details>
+</div>
 
-### I wish...
- - I would look back and appreciate the obstacles I've overcome more often
- - Someone would have told me how much fun coding is sooner
- - What 42 was the answer to...
+### <div align="center">I wish... <br/>
+<p align="center">
+   - I would look back and appreciate the obstacles I've overcome more often <br/>
+   - Someone would have told me how much fun coding is sooner <br/>
+   - What 42 was the answer to...<br/>
+ </p>
+ </div>
 
-### Tell me what you think!
-Let me know your:
- * Favorite histoical event
- * Horde or Alliance | Classic or Retail (or both!)
- * Light or Dark side of the Force
- * Best Starter Pokémon
- * Imperium, Chaos, or do you enjoy screaming "WAAAGH"
- * What do you think everyone should read at least once
- 
+### <div align="center"> <h2> Tell me what you think! <h2> </div>
+<div align="center"> <h4> Let me know: </h4>
+<p align="center">
+ * Imperium, Chaos, or do you enjoy screaming "WAAAGH" <br/>
+ * What do you think everyone should read at least once <br/>
+ * Horde or Alliance | Classic or Retail (or both!) <br/>
+ * Light or Dark side of the Force <br/>
+ * Favorite histoical event <br/>
+ * Best Starter Pokémon <br/>
+ </p>
  ([:page_with_curl::pencil2: add a comment](https://github.com/m-smith15/m-smith15/issues/1#issuecomment-new))
 
 <!-- Guestbook -->
@@ -67,9 +77,11 @@ Let me know your:
 | <a href="https://github.com/coren-frankel"><img width="24" src="https://avatars.githubusercontent.com/u/104476731?s=24&v=4" alt="coren-frankel" /> coren-frankel</a> |9/18/2022, 9:12:51 PM|I enjoy screaming "WAAAGH!"|
 | <a href="https://github.com/m-smith15"><img width="24" src="https://avatars.githubusercontent.com/u/106689709?s=24&v=4" alt="m-smith15" /> m-smith15</a> |9/4/2022, 9:15:02 PM|Testing this out!|
 <!-- /Guestbook -->
+</div> 
 
-### Before you go...
- * Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/macksmithlambeau/)
+### <div align="center"> Before you go... </div>
+* Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/macksmithlambeau/)
  * You'll never guess what I tweeted about [![Twitter Badge](https://img.shields.io/badge/viral%20tweet-I'll%20never..-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  * Your presence has been acknowledged ![Profile View Count](https://komarev.com/ghpvc/?username=m-smith15)
+ 
 
