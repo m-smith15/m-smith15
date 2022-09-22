@@ -1,28 +1,28 @@
-## <h1 align="center">:tada: Welcome! :tada: </h1>
+# <h1 align="center">:tada: Welcome! :tada: </h1>
 
 <p align="center">
 <img alt="GIF" align="center" height="300px" width="300px" src="./assets/futurama-professor.gif" /><br /><br />
 The new users have arrived!
 </p>
 
-### <div align="center">But seriously... </div>
+## <div align="center">But seriously... </div>
  <p align="center">Hello and welcome! My name is Mack. This profile will serve as a diary of my journey into the coding world. <br />
  To start this journey, I've enrolled in a coding bootcamp through Coding Dojo. The assignments I've completed in regards to the bootcamp are a little further in, but my personal projects are pinned below! <p>
  
-### <div align="center"> A little about me... </div>
+## <div align="center"> A little about me... </div>
  <ul>
  <li> My personality type is <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a> (Introverted, Intuitive, Thinking, Judging traits) </li>
-   <ul> <li> <a href="https://www.16personalities.com/free-personality-test target="_blank">What's yours? </a> </ul> </li>
+ <ul> <li> <a href="https://www.16personalities.com/free-personality-test target="_blank">What's yours? </a> </ul> </li>
  <li> I'm goal oriented, and driven by understanding the why behind anything </li>
  <li> As someone who is competitive, I enjoy challenges and the struggle they provide </li>
  <li> I am a huge fantasy nerd, and a self-proclaimed history buff </li>
  <ul>
 
  
-<!-- ### Currently, I'm learning about...  TODO -->
+<!-- ## Currently, I'm learning about...  TODO -->
 
  
- ### <div align="center"> What have I been listening to... </div>
+ ## <div align="center"> What have I been listening to... </div>
  <div align="center">
  
  | Title | Author | Status |
@@ -43,7 +43,7 @@ The new users have arrived!
   <img alt="GIF" height="300px" width="600px" src="./assets/pixel-city.gif" />
  </p>
 
-### <div align="center"> Super Secret Stats </div>
+## <div align="center"> Super Secret Stats </div>
 <div align="center">
 <details>
 <summary>Click to show/hide</summary>
@@ -51,7 +51,8 @@ The new users have arrived!
 </details>
 </div>
 
-### <div align="center">I wish... <br/>
+## <div align="center">I wish...  </div>
+<div align="center">
 <p align="center">
    - I would look back and appreciate the obstacles I've overcome more often <br/>
    - Someone would have told me how much fun coding is sooner <br/>
@@ -59,8 +60,8 @@ The new users have arrived!
  </p>
  </div>
 
-### <div align="center"> <h2> Tell me what you think! <h2> </div>
-<div align="center"> <h4> Let me know: </h4>
+## <div align="center"> Tell me what you think! </div>
+<div align="center">
 <p align="center">
  * Imperium, Chaos, or do you enjoy screaming "WAAAGH" <br/>
  * What do you think everyone should read at least once <br/>
@@ -69,7 +70,7 @@ The new users have arrived!
  * Favorite histoical event <br/>
  * Best Starter Pokémon <br/>
  </p>
- ([:page_with_curl::pencil2: add a comment](https://github.com/m-smith15/m-smith15/issues/1#issuecomment-new))
+ :page_with_curl::pencil2: <a href="https://github.com/m-smith15/m-smith15/issues/1#issuecomment-new">add a comment</a>
 
 <!-- Guestbook -->
 | Name | Date | Message |
@@ -79,9 +80,9 @@ The new users have arrived!
 <!-- /Guestbook -->
 </div> 
 
-### <div align="center"> Before you go... </div>
-* Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/macksmithlambeau/)
- * You'll never guess what I tweeted about [![Twitter Badge](https://img.shields.io/badge/viral%20tweet-I'll%20never..-orange)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
- * Your presence has been acknowledged ![Profile View Count](https://komarev.com/ghpvc/?username=m-smith15)
+## <div align="center"> Before you go... </div>
+<div align="center">
+<a href="https://www.linkedin.com/in/macksmithlambeau/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue" /></a> | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> <img src="https://img.shields.io/badge/Didn't%20like%3F-let me know-critical" /></a> | <img src="https://komarev.com/ghpvc/?username=m-smith15" />
+</div>
  
 
