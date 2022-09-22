@@ -51,6 +51,7 @@ The new users have arrived!
 </details>
 </div>
 
+  <!--
 ## <div align="center">I wish...  </div>
 <div align="center">
 <p align="center">
@@ -59,6 +60,7 @@ The new users have arrived!
    - What 42 was the answer to...<br/>
  </p>
  </div>
+  -->
 
 ## <div align="center"> Tell me what you think! </div>
 <div align="center">
