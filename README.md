@@ -69,7 +69,7 @@ The new users have arrived!
  * What do you think everyone should read at least once <br/>
  * Horde or Alliance | Classic or Retail (or both!) <br/>
  * Light or Dark side of the Force <br/>
- * Favorite histoical event <br/>
+ * Favorite historical event <br/>
  * Best Starter Pokémon <br/>
  </p>
  :page_with_curl::pencil2: <a href="https://github.com/m-smith15/m-smith15/issues/1#issuecomment-new">add a comment</a>
