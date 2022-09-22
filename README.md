@@ -82,7 +82,7 @@ The new users have arrived!
 
 ## <div align="center"> Before you go... </div>
 <div align="center">
-<a href="https://www.linkedin.com/in/macksmithlambeau/" target="blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue" /></a> | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> <img src="https://img.shields.io/badge/Didn't%20like%3F-let me know-critical" /></a> | <img src="https://komarev.com/ghpvc/?username=m-smith15" />
+<a href="https://www.linkedin.com/in/macksmithlambeau/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue" /></a> | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> <img src="https://img.shields.io/badge/Didn't%20like%3F-let me know-critical" /></a> | <img src="https://komarev.com/ghpvc/?username=m-smith15" />
 </div>
  
 
