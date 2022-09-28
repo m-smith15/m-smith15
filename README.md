@@ -7,7 +7,7 @@ The new users have arrived!
 
 ## <div align="center">But seriously... </div>
  <p align="center">Hello and welcome! My name is Mack. This profile will serve as a diary of my journey into the coding world. <br />
- To start this journey, I've enrolled in a coding bootcamp through Coding Dojo. The assignments I've completed in regards to the bootcamp are a little further in, but my personal projects are pinned below! <p>
+ To start this journey, I've completed a coding bootcamp through Coding Dojo. The assignments I've completed in regards to the bootcamp are a little further in, but my personal projects are pinned below! <p>
  
 ## <div align="center"> A little about me... </div>
  <ul>
