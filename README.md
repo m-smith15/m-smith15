@@ -7,14 +7,14 @@ The new users have arrived!
 
 ## <div align="center">But seriously... </div>
  <p align="center">Hello and welcome! My name is Mack. This profile will serve as a diary of my journey into the coding world. <br />
- To start this journey, I enrolled and completed a coding bootcamp through Coding Dojo learning Python, Java, and MERN. The assignments I've completed in regards to the bootcamp are a little further in, but my personal projects are pinned below! <br><br>
+ To start this journey, I enrolled and completed a coding bootcamp through Coding Dojo learning Python, Java, and MERN. The assignments I've completed in regards to the bootcamp are a little further in, but my "Projects" repo pinned below has some pretty neat stuff! <br><br>
 Lots of coding bootcamps out there, if you'd like to know more about the one I attended you can check out more details on their <a href="https://www.codingdojo.com/online-coding-bootcamp-full-time">website</a>. <p>
  
 ## <div align="center"> A little about me... </div>
  <ul>
  <li> My personality type is <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a> (Introverted, Intuitive, Thinking, Judging traits) </li>
  <ul> <li> <a href="https://www.16personalities.com/free-personality-test target="_blank">What's yours? </a> </ul> </li>
- <li> I'm goal oriented, and driven by understanding the why behind anything </li>
+ <li> I'm goal oriented, and driven by understanding the "why" behind anything </li>
  <li> As someone who is competitive, I enjoy challenges and the struggle they provide </li>
  <li> I am a huge fantasy nerd, and a self-proclaimed history buff </li>
  <ul>
