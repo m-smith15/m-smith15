@@ -53,7 +53,7 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
 
 <p align="center">Python: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/python/magazine">Magazine Subscription App</a>. Check it out: http://3.23.104.32/. Create a new user, or use shrimp@ocean.com | shrimp</p>
 <p align="center">Java: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/Java/Yoga">Yoga Instructor App</a>. Check it out: http://18.223.23.14/. Create a new user, or use shrimp@ocean.com | shrimp</p>
-<p align="center">MERN: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/MERN/pirate_life">Pirate crew builder</a>. Check it out: http://18.221.71.54/. Create a new pirate, or edit an existing one!</p>
+<p align="center">MERN: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/MERN/pirate_life">Pirate crew builder</a>. Check it out: http://18.221.71.54/. Create, Update, Read, or Destory pirate's - all on a SPA!</p>
 
 ## <div align="center"> Super Secret Stats </div>
 <div align="center">
