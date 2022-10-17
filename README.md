@@ -48,12 +48,11 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
 </p>
 <p align="center"><a href="https://github.com/m-smith15/Projects/tree/master/Java">Character Template</a> - This was a 2-part project that involved building a web scraper that scraped a Wiki's tables for data to build out a database of spells and abilities for me. The other half of the application utilizes that database to display spells and abilities based on levels input. The idea behind this was to allow for further theorycrafting of potential characters as my friends and I continue playing together. 
 </p>
-<br/>
 <p align="center">While enrolled in Coding Dojo's coding bootcamp, I earned the coveted "black belt" in each of my stacks - demonstrating a strong understanding and mastery of the technology. To earn a black belt, students would have to implement difficult and advanced features into their projects like M:M relationships, advanced validations, or additional tables with specific interaction requirements. This was on top of creating a fully CRUD (Create, Read, Update, Destroy) application in under 5 hours.</p>
-
 <p align="center">Python: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/python/magazine">Magazine Subscription App</a>. Check it out: http://3.23.104.32/. Create a new user, or use shrimp@ocean.com | shrimp</p>
 <p align="center">Java: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/Java/Yoga">Yoga Instructor App</a>. Check it out: http://18.223.23.14/. Create a new user, or use shrimp@ocean.com | shrimp</p>
 <p align="center">MERN: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/MERN/pirate_life">Pirate crew builder</a>. Check it out: http://18.221.71.54/. Create, Update, Read, or Destory pirate's - all on a SPA!</p>
+<br/>
 
 ## <div align="center"> Super Secret Stats </div>
 <div align="center">
