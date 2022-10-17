@@ -7,7 +7,7 @@ The new users have arrived!
 
 ## <div align="center">But seriously... </div>
  <p align="center">Hello and welcome! My name is Mack. This profile will serve as a diary of my journey into the coding world. <br/><br/>
- To start this journey, I enrolled and completed a coding bootcamp through Coding Dojo learning Python, Java, and MERN. The assignments I've completed in regards to the bootcamp are a little further in, but my "Projects" repo pinned below has some pretty neat stuff! <br><br>
+ To start this journey, I enrolled and completed a coding bootcamp through Coding Dojo learning Python, Java, and MERN. The assignments I've completed in regards to the bootcamp are a little further in, feel free to check them out. <br><br>
 Lots of coding bootcamps out there, if you'd like to know more about the one I attended you can check out more details on their <a href="https://www.codingdojo.com/online-coding-bootcamp-full-time">website</a>. <p>
  
 ## <div align="center"> A little about me... </div>
@@ -19,10 +19,6 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
  <li> I am a huge fantasy nerd, and a self-proclaimed history buff </li>
  <ul>
 
- 
-<!-- ## Currently, I'm learning about...  TODO -->
-
- 
  ## <div align="center"> What have I been listening to... </div>
  <div align="center">
  
@@ -44,6 +40,20 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
  <p align="center">
   <img alt="GIF" height="300px" width="600px" src="./assets/pixel-city.gif" />
  </p>
+ 
+  
+## <div align="center"> What have I been up to... </div>
+<p align="center">While attending Coding Dojo's coding bootcamp, we were encouraged to undertake some personal projects. You're more than welcome to check out my <a href="https://github.com/m-smith15/Projects">Projects</a> repo. If unsure, let me suggest:</p>
+<p align="center"><a href="https://github.com/m-smith15/Projects/tree/master/Python/wow_ah_project">Offline Auction House</a> - this was my Python passion project. It is an application that consumes Blizzard's Auction house API and returns results based off of a users query. This lets users explore, interact, and enjoy the world more!
+</p>
+<p align="center"><a href="https://github.com/m-smith15/Projects/tree/master/Java">Character Template</a> - This was a 2-part project that involved building a web scraper that scraped a Wiki's tables for data to build out a database of spells and abilities for me. The other half of the application utilizes that database to display spells and abilities based on levels input. The idea behind this was to allow for further theorycrafting of potential characters as my friends and I continue playing together. 
+</p>
+<br/>
+<p align="center">While enrolled in Coding Dojo's coding bootcamp, I earned the coveted "black belt" in each of my stacks - demonstrating a strong understanding and mastery of the technology. To earn a black belt, students would have to implement difficult and advanced features into their projects like M:M relationships, advanced validations, or additional tables with specific interaction requirements. This was on top of creating a fully CRUD (Create, Read, Update, Destroy) application in under 5 hours.</p>
+
+<p align="center">Python: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/python/magazine">Magazine Subscription App</a>. Check it out: http://3.23.104.32/. Create a new user, or use shrimp@ocean.com | shrimp</p>
+<p align="center">Java: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/Java/Yoga">Yoga Instructor App</a>. Check it out: http://18.223.23.14/. Create a new user, or use shrimp@ocean.com | shrimp</p>
+<p align="center">MERN: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/MERN/pirate_life">Pirate crew builder</a>. Check it out: http://18.221.71.54/. Create a new pirate, or edit an existing one!</p>
 
 ## <div align="center"> Super Secret Stats </div>
 <div align="center">
@@ -53,7 +63,7 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
 </details>
 </div>
 
-  <!--
+  <!-- this feels too personal, commenting out for now
 ## <div align="center">I wish...  </div>
 <div align="center">
 <p align="center">
