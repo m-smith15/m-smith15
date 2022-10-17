@@ -6,7 +6,7 @@ The new users have arrived!
 </p>
 
 ## <div align="center">But seriously... </div>
- <p align="center">Hello and welcome! My name is Mack. This profile will serve as a diary of my journey into the coding world. <br />
+ <p align="center">Hello and welcome! My name is Mack. This profile will serve as a diary of my journey into the coding world. <br/><br/>
  To start this journey, I enrolled and completed a coding bootcamp through Coding Dojo learning Python, Java, and MERN. The assignments I've completed in regards to the bootcamp are a little further in, but my "Projects" repo pinned below has some pretty neat stuff! <br><br>
 Lots of coding bootcamps out there, if you'd like to know more about the one I attended you can check out more details on their <a href="https://www.codingdojo.com/online-coding-bootcamp-full-time">website</a>. <p>
  
