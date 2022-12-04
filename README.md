@@ -48,7 +48,7 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
 </p>
 <p align="center">(Java) <a href="https://github.com/m-smith15/Projects/tree/master/Java">Character Template</a> - This was a 2-part project that involved building a web scraper that scraped a Wiki's tables for data to build (and quickly re-build) out a database of spells and abilities. The other half of the application utilizes that database to display spells and abilities based on levels input. The idea behind this was to allow for further theorycrafting of potential characters as my friends and I continue playing together. 
 </p>
-<p align="center">(MERN) <a href="https://github.com/m-smith15/webdev_flashcards">Webdev Flashcards</a> - I flubbed a few questions in an interview - no great way to put it. What I did learn was I needed to study up more, and that I can use my knowledge of the MERN stack to make a tool to help me with that. The purpose of this application is to house data on development terms, concepts, and acronyms to help users brush up on their knowledge.  This application is deployed with Vercel and is can be accessed at <a href="https://webdev-flashcards.vercel.app/">this URL</a>.
+<p align="center">(MERN) <a href="https://github.com/m-smith15/webdev_flashcards">Webdev Flashcards</a> - I know enough to know that I don't know...yet! The purpose of this full application is to to help users brush up on their knowledge of development terms, concepts, and acronyms.  This application is deployed with Vercel and is can be accessed at <a href="https://webdev-flashcards.vercel.app/">this URL</a>.
 </p>
   
 ## <div align="center"> Coding Bootcamp </div>
