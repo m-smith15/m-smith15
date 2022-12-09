@@ -53,9 +53,10 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
   
 ## <div align="center"> Coding Bootcamp </div>
 <p align="center">While enrolled in Coding Dojo's coding bootcamp, I earned the coveted "black belt" in each of my stacks - demonstrating a strong understanding and mastery of the technology. To earn a black belt, students would have to implement difficult and advanced features into their projects like M:M relationships, advanced validations, or additional tables with specific interaction requirements. This was on top of creating a fully CRUD (Create, Read, Update, Destroy) application in under 5 hours. Check out the code over in my <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams">belt_exams</a> repo, or I've got the TL;DR below:</p>
-<p align="center">Python: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/python/magazine">Magazine Subscription App</a>. Check it out: http://3.23.104.32/. Create a new user, or use shrimp@ocean.com | shrimp</p>
-<p align="center">Java: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/Java/Yoga">Yoga Instructor App</a>. Check it out: http://18.223.23.14/. Create a new user, or use shrimp@ocean.com | shrimp</p>
-<p align="center">MERN: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/MERN/pirate_life">Pirate crew builder</a>. Check it out: http://18.221.71.54/. Create, Update, Read, or Destory pirate's - all on a SPA!</p>
+<p>💸These applications have been taking offline to avoid mounting AWS charges, but reach out if you'd like to see them spun up!💸 </p>
+<p align="center">Python: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/python/magazine">Magazine Subscription App</a>. <!-- Check it out: http://3.23.104.32/. Create a new user, or use shrimp@ocean.com | shrimp --> </p>
+<p align="center">Java: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/Java/Yoga">Yoga Instructor App</a>.  <!--  Check it out: http://18.223.23.14/. Create a new user, or use shrimp@ocean.com | shrimp -->  </p>
+<p align="center">MERN: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/MERN/pirate_life">Pirate crew builder</a>.  <!-- Check it out: http://18.221.71.54/. Create, Update, Read, or Destory pirate's - all on a SPA! --> </p>
 <br/>
 
 ## <div align="center"> Super Secret Stats </div>
