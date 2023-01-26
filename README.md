@@ -47,7 +47,8 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
   TL;DR - I ramble about nerdy stuff, check it out at <a href="https://projects-phi-nine.vercel.app/">this URL</a>
 </p>
 <p align="center">(Java) <a href="https://github.com/m-smith15/Projects/tree/master/Java">Character Template</a> & <a href="https://github.com/m-smith15/Projects/tree/master/Java/WebScraper2">Web Scraper</a> - This was a 2-part project that involved building a web scraper that scraped a Wiki's tables for data to build (and quickly re-build) out a database of spells and abilities. The other half of the application utilizes that database to display spells and abilities with the Spring framework. The idea behind this was to allow for further theorycrafting of potential characters as my friends and I continue playing together. <br/>
-  TL;DR - I can really go on about nerdy stuff. The application is deployed on an AWS EC2 instance, and you can see it here: <a href="http://3.23.132.180/">http://3.23.132.180/</a>
+  TL;DR - I can really go on about nerdy stuff. The application is deployed on an AWS EC2 instance, and you can see it here**: <a href="http://3.23.132.180/">http://3.23.132.180/</a>. <br/>
+**Working on a system that will have this remain in the AWS free tier usage while being available 100% of the time. 503 means I took the custom service down temporarily!
 </p>
   
 <p align="center">(MERN) <a href="https://github.com/m-smith15/webdev_flashcards">Webdev Flashcards</a> - I know enough to know that I don't know enough...yet! The purpose of this full application is to to help users brush up on their knowledge of development terms, concepts, and acronyms. This project was developed in collaboration, with hopes to add and allow others to collaborate with us!  <br/> 
