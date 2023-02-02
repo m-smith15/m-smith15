@@ -32,7 +32,7 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
 | [At Your Best](https://www.audible.com/pd/At-Your-Best-Audiobook/0593287495?ref=web_search_eac_asin_1&qid=iwqAJlfWvw&sr=1-1) | Carey Nieuwhof | :heavy_check_mark: | 
 | [The Joyful Wisdom](https://www.audible.com/pd/The-Gay-Science-The-Joyful-Wisdom-Audiobook/B01EWAYY9Q?qid=1662322248&sr=1-2&ref=a_search_c3_lProduct_1_2&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=F3DZ588V1WXVGA5YRDA7) | Friedrich Nietzsche | :white_small_square::white_small_square::white_small_square: |
 | [Clean Code](https://www.audible.com/pd/Clean-Code-Audiobook/B08X7KL3TF?ref=a_library_t_c5_libItem_&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=RA7F5FE18NSCQTFMR9QR) | Robert C. Martin | :white_small_square::white_small_square::white_small_square: |
-| [Warhammer 30k The Horus Heresy Series](https://www.audible.com/pd/Horus-Rising-Audiobook/B0764LBS4B?qid=1662322070&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=1WZXNT81Z0GY13QN8WH6) | Various Authors | :white_small_square::white_small_square::white_small_square: |
+| [Warhammer - The Horus Heresy Series](https://www.audible.com/pd/Horus-Rising-Audiobook/B0764LBS4B?qid=1662322070&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=1WZXNT81Z0GY13QN8WH6) | Various Authors | Book 4: Flight of the Eisenstein |
 | [Grey Knights: Blade of Purity](https://www.audible.com/pd/Grey-Knights-Blade-of-Purity-Audiobook/B077G3Y717?ref=web_search_eac_asin_1&qid=gy1LCDtlB1&sr=1-1) | David Annandale | :heavy_check_mark: | 
 </div>
 
