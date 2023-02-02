@@ -51,7 +51,7 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
 **Working on a system that will have this remain in the AWS free tier usage while being available 100% of the time. 503 means I took the custom service down temporarily!
 </p>
   
-<p align="center">(MERN) <a href="https://github.com/m-smith15/webdev_flashcards">Webdev Flashcards</a> - I know enough to know that I don't know enough...yet! The purpose of this full application is to to help users brush up on their knowledge of development terms, concepts, and acronyms. This project was developed in collaboration, with hopes to add and allow others to collaborate with us!  <br/> 
+<p align="center">(MERN) <a href="https://github.com/m-smith15/webdev_flashcards">Webdev Flashcards</a> - The purpose of this full application is to to help users brush up on their knowledge of development terms, concepts, and acronyms. This project was developed in collaboration, with hopes to add and allow others to collaborate with us!  <br/> 
 This full-stack application is deployed with Vercel and is can be accessed at <a href="https://webdev-flashcards.vercel.app/">this URL</a>.
 </p>
   
