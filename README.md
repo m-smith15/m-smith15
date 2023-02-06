@@ -43,16 +43,20 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
   
 ## <div align="center"> What have I been up to... </div>
 <p align="center">While attending Coding Dojo's coding bootcamp, we were encouraged to undertake some personal projects. You're more than welcome to check out my <a href="https://github.com/m-smith15/Projects">Projects</a> repo. If unsure, let me suggest:</p>
-<p align="center">(Python) <a href="https://github.com/m-smith15/Projects/tree/master/Python/wow_ah_project">Offline Auction House</a> - this was my passion project. It is an application that consumes Blizzard's Auction house API and returns results based off of a users query. This lets me (and other users) explore, interact, and enjoy the world more - instead of sitting infront of the auction house manually inputting data into spreadsheets! This full-stack application is deployed with Vercel using a PlanetScale cloud SQL db.<br/> 
+<p align="center">(Python) <a href="https://github.com/m-smith15/Projects/tree/master/Python/wow_ah_project">Offline Auction House (Repo)</a> - this was my passion project. It is an application that consumes Blizzard's Auction house API and returns results based off of a users query. This lets me (and other users) explore, interact, and enjoy the world more - instead of sitting infront of the auction house manually inputting data into spreadsheets! This full-stack application is deployed with Vercel using a PlanetScale cloud SQL db.<br/> 
   TL;DR - I ramble about nerdy stuff, check it out at <a href="https://projects-phi-nine.vercel.app/">this URL</a>
 </p>
-<p align="center">(Java) <a href="https://github.com/m-smith15/Projects/tree/master/Java">Character Template</a> & <a href="https://github.com/m-smith15/Projects/tree/master/Java/WebScraper2">Web Scraper</a> - This was a 2-part project that involved building a web scraper that scraped a Wiki's tables for data to build (and quickly re-build) out a database of spells and abilities. The other half of the application utilizes that database to display spells and abilities with the Spring framework. The idea behind this was to allow for further theorycrafting of potential characters as my friends and I continue playing together. <br/>
+<p align="center">(Java) <a href="https://github.com/m-smith15/Projects/tree/master/Java">Character Template (Repo)</a> & <a href="https://github.com/m-smith15/Projects/tree/master/Java/WebScraper2">Web Scraper (Repo)</a> - This was a 2-part project that involved building a web scraper that scraped a Wiki's tables for data to build (and quickly re-build) out a database of spells and abilities. The other half of the application utilizes that database to display spells and abilities with the Spring framework. The idea behind this was to allow for further theorycrafting of potential characters as my friends and I continue playing together. <br/>
   TL;DR - I can really go on about nerdy stuff. The application is deployed on an AWS EC2 instance, and you can see it here**: <a href="http://3.23.132.180/">http://3.23.132.180/</a>. <br/>
 **Working on a system that will have this remain in the AWS free tier usage while being available 100% of the time. 503 means I took the custom service down temporarily!
 </p>
   
-<p align="center">(MERN) <a href="https://github.com/m-smith15/webdev_flashcards">Webdev Flashcards</a> - The purpose of this full application is to to help users brush up on their knowledge of development terms, concepts, and acronyms. This project was developed in collaboration, with hopes to add and allow others to collaborate with us!  <br/> 
+<p align="center">(MERN) <a href="https://github.com/m-smith15/webdev_flashcards">Webdev Flashcards (Repo)</a> - The purpose of this full application is to to help users brush up on their knowledge of development terms, concepts, and acronyms. This project was developed in collaboration, with hopes to add and allow others to collaborate with us!  <br/> 
 This full-stack application is deployed with Vercel and is can be accessed at <a href="https://webdev-flashcards.vercel.app/">this URL</a>.
+</p>
+  
+<p align="center">(HTML, CSS, JS) <a href="https://github.com/m-smith15/m-smith15.github.io">Personal Portfolio (Repo)</a> - I built a personal portfolio from the ground up! I put forth some self-imposed challenges and design principles that I wanted to use in the project, which can be found in the project's repo!<br/> 
+Currently this is deployed via GitHub pages and can be viewed at <a href="https://m-smith15.github.io/">this URL</a>.
 </p>
   
 ## <div align="center"> Coding Bootcamp </div>
