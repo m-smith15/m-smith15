@@ -42,11 +42,11 @@ Lots of coding bootcamps out there, if you'd like to know more about the one I a
  
   
 ## <div align="center"> What have I been up to... </div>
-<p align="center">While attending Coding Dojo's coding bootcamp, we were encouraged to undertake some personal projects. You're more than welcome to check out my <a href="https://github.com/m-smith15/Projects">Projects</a> repo. If unsure, let me suggest:</p>
-<p align="center">(Python) <a href="https://github.com/m-smith15/Projects/tree/master/Python/wow_ah_project">Offline Auction House (Repo)</a> - this was my passion project. It is an application that consumes Blizzard's Auction house API and returns results based off of a users query. This lets me (and other users) explore, interact, and enjoy the world more - instead of sitting infront of the auction house manually inputting data into spreadsheets! This full-stack application is deployed with Vercel using a PlanetScale cloud SQL db.<br/> 
+<p align="center">While attending Coding Dojo's coding bootcamp, we were encouraged to undertake some personal projects. Here is a brief overview of some I like to showcase:</p>
+<p align="center">(Python) <a href="https://github.com/m-smith15/Offline_Auction_House">Offline Auction House (Repo)</a> - this was my passion project. It is an application that consumes Blizzard's Auction house API and returns results based off of a users query. This lets me (and other users) explore, interact, and enjoy the world more - instead of sitting infront of the auction house manually inputting data into spreadsheets! This full-stack application is deployed with Vercel using a PlanetScale cloud SQL db.<br/> 
   TL;DR - I ramble about nerdy stuff, check it out at <a href="https://projects-phi-nine.vercel.app/">this URL</a>
 </p>
-<p align="center">(Java) <a href="https://github.com/m-smith15/Projects/tree/master/Java">Character Template (Repo)</a> & <a href="https://github.com/m-smith15/Projects/tree/master/Java/WebScraper2">Web Scraper (Repo)</a> - This was a 2-part project that involved building a web scraper that scraped a Wiki's tables for data to build (and quickly re-build) out a database of spells and abilities. The other half of the application utilizes that database to display spells and abilities with the Spring framework. The idea behind this was to allow for further theorycrafting of potential characters as my friends and I continue playing together. <br/>
+<p align="center">(Java) <a href="https://github.com/m-smith15/CharacterTemplate_WebScraper">Character Template & Web Scraper (Repo)</a> - This was a 2-part project that involved building a web scraper that scraped a Wiki's tables for data to build (and quickly re-build) out a database of spells and abilities. The other half of the application utilizes that database to display spells and abilities with the Spring framework. The idea behind this was to allow for further theorycrafting of potential characters as my friends and I continue playing together. <br/>
   TL;DR - I can really go on about nerdy stuff. The application is deployed on an AWS EC2 instance, and you can see it here**: <a href="http://18.221.143.236">http://18.221.143.236</a>. <br/>
 **Working on a system that will have this remain in the AWS free tier usage while being available 100% of the time. 503 means I took the custom service down temporarily!
 </p>
@@ -60,11 +60,11 @@ Currently this is deployed via GitHub pages and can be viewed at <a href="https:
 </p>
   
 ## <div align="center"> Coding Bootcamp </div>
-<p align="center">While enrolled in Coding Dojo's coding bootcamp, I earned the coveted "black belt" in each of my stacks - demonstrating a strong understanding and mastery of the technology. To earn a black belt, students would have to implement difficult and advanced features into their projects like M:M relationships, advanced validations, or additional tables with specific interaction requirements. This was on top of creating a fully CRUD (Create, Read, Update, Destroy) application in under 5 hours. Check out the code over in my <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams">belt_exams</a> repo, or I've got the TL;DR below:</p>
+<p align="center">While enrolled in Coding Dojo's coding bootcamp, I earned the coveted "black belt" in each of my stacks - demonstrating a strong understanding and mastery of the technology. To earn a black belt, students would have to implement difficult and advanced features into their projects like M:M relationships, advanced validations, or additional tables with specific interaction requirements. This was on top of creating a fully CRUD (Create, Read, Update, Destroy) application in under 5 hours. Check out the code over in my <a href="https://github.com/m-smith15/CodingDojo_Archive/tree/master/6_beltExams">belt_exams</a> repo, or I've got the TL;DR below:</p>
 <p>💸These applications have been taking offline to avoid mounting AWS charges, but reach out if you'd like to see them spun up! </p>
-<p align="center">Python: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/python/magazine">Magazine Subscription App</a>. <!-- Check it out: http://3.23.104.32/. Create a new user, or use shrimp@ocean.com | shrimp --> </p>
-<p align="center">Java: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/Java/Yoga">Yoga Instructor App</a>.  <!--  Check it out: http://18.223.23.14/. Create a new user, or use shrimp@ocean.com | shrimp -->  </p>
-<p align="center">MERN: <a href="https://github.com/m-smith15/Projects/tree/master/belt_exams/MERN/pirate_life">Pirate crew builder</a>.  <!-- Check it out: http://18.221.71.54/. Create, Update, Read, or Destory pirate's - all on a SPA! --> </p>
+<p align="center">Python: <a href="https://github.com/m-smith15/CodingDojo_Archive/tree/master/6_beltExams/python/magazine">Magazine Subscription App</a>. <!-- Check it out: http://3.23.104.32/. Create a new user, or use shrimp@ocean.com | shrimp --> </p>
+<p align="center">Java: <a href="https://github.com/m-smith15/CodingDojo_Archive/tree/master/6_beltExams/Java/Yoga">Yoga Instructor App</a>.  <!--  Check it out: http://18.223.23.14/. Create a new user, or use shrimp@ocean.com | shrimp -->  </p>
+<p align="center">MERN: <a href="https://github.com/m-smith15/CodingDojo_Archive/tree/master/6_beltExams/MERN/pirate_life">Pirate crew builder</a>.  <!-- Check it out: http://18.221.71.54/. Create, Update, Read, or Destory pirate's - all on a SPA! --> </p>
 <br/>
 
 ## <div align="center"> Super Secret Stats </div>
@@ -74,17 +74,6 @@ Currently this is deployed via GitHub pages and can be viewed at <a href="https:
 <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=m-smith15&show_icons=true&theme=merko" />
 </details>
 </div>
-
-  <!-- this feels too personal, commenting out for now
-## <div align="center">I wish...  </div>
-<div align="center">
-<p align="center">
-   - I would look back and appreciate the obstacles I've overcome more often <br/>
-   - Someone would have told me how much fun coding is sooner <br/>
-   - What 42 was the answer to...<br/>
- </p>
- </div>
-  -->
 
 ## <div align="center"> Tell me what you think! </div>
 <div align="center">
